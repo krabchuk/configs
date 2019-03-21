@@ -176,3 +176,4 @@ bar {
 
 exec_always "setxkbmap -layout us,ru -option grp:win_space_toggle Win+Space"
 exec_always "pidgin"
+exec_always "xrandr --output HDMI-1 --left-of eDP-1"
