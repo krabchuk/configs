@@ -116,10 +116,6 @@ if ! shopt -oq posix; then
   fi
 fi
 
-
-
-alias python=python3
-
 # useful trick from internet
 extract () {
     if [ -f $1 ] ; then
