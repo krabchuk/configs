@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/nikita.kravchuk/tNavigator/out/debug'
+let g:netrw_dirhist_2='/home/nikita.kravchuk/tmp'
+let g:netrw_dirhist_3='/home/nikita.kravchuk/.config/i3'
